@@ -1,0 +1,10 @@
+this is writefile method
+
+//app.get('/', function (req, res){
+//     res.send('Hello World')
+//   })
+
+//post
+// app.post('/', (req,res)=>{
+//     res.send("This is post method")
+// })
